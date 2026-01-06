@@ -2,7 +2,7 @@
 
 **SeqAlign Pro** is a bioinformatics web application that visualizes the **Needleman-Wunsch algorithm** for global sequence alignment. It provides interactive dot plots, dynamic scoring matrices, and optimal path traceback, making it an excellent tool for educational and research purposes.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](WILL_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://seq-align-pro.streamlit.app/)
 
 ## 📌 Overview
 **SeqAlign Pro** is designed to simplify pairwise sequence alignment. Unlike standard command-line tools, it offers a visual dashboard to understand *how* sequences align.
@@ -47,4 +47,5 @@ If you want to run this tool on your own machine:
 [LinkedIn](will add soon) | [GitHub](https://github.com/rao-monika-yadav)
 
 ---
+
 *Disclaimer: This tool is intended for research and educational purposes only.*
